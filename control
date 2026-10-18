@@ -1,0 +1,9 @@
+Package: com.kwarnu.teleturbo  
+Name: TeleTurbo  
+Version: 0.1.0  
+Architecture: iphoneos-arm  
+Description: Performance and heat reduction tweak for Telegram  
+Maintainer: KwarNu  
+Author: KwarNu  
+Section: Tweaks  
+Depends: mobilesubstrate
